@@ -1,0 +1,200 @@
+Un-779,United Airlines,KNO
+Un-568,United Airlines,ZCN
+Un-181,United Airlines,LDZ
+Un-336,United Airlines,KRY
+Qa-974,Qantas Airways,YHP
+Qa-662,Qantas Airways,HRG
+Qa-609,Qantas Airways,VII
+Ma-188,Mango,DWS
+Ma-241,Mango,PTB
+De-243,Delta Air Lines,LRO
+De-592,Delta Air Lines,KFX
+Ai-565,Air Berlin,GLV
+Ai-673,Air Berlin,CWB
+Ai-581,Air Berlin,KOV
+Ai-106,Air Berlin,HUL
+So-095,Southwest Airlines,CUL
+Ai-300,Air Transat,KMI
+Ai-630,Air Transat,BGE
+Ai-122,Air China,VVC
+Ai-985,Air China,GYS
+Ai-871,Air China,GOV
+We-227,WestJet,LHC
+We-668,WestJet,OMB
+We-446,WestJet,SFJ
+We-921,WestJet,GYS
+As-587,Asiana Airlines,NRN
+As-762,Asiana Airlines,GUP
+TA-619,TAM Airlines,YMH
+Ma-921,Malaysia Airlines,GIL
+Ma-936,Malaysia Airlines,RJL
+Ma-210,Malaysia Airlines,LET
+Ma-001,Malaysia Airlines,DIL
+No-475,Norwegian,YJM
+No-220,Norwegian,BHK
+No-384,Norwegian,HOG
+No-005,Norwegian,A39
+Ai-328,AirAsiaX,CXY
+Ai-376,AirAsiaX,POC
+Fi-933,Finnair,NIP
+Fi-048,Finnair,OKC
+Eu-345,Eurowings,NOA
+Eu-689,Eurowings,WAQ
+Sw-825,Swiss Int'l Air Lines,FUL
+Je-447,Jet Airways,KAL
+Ai-255,AirAsia,PKY
+Ai-155,AirAsia,KSQ
+Ae-525,Aeromexico,HKK
+Ae-637,Aeromexico,MSP
+Am-900,American Airlines,PUG
+Am-120,American Airlines,JLN
+Am-221,American Airlines,YPX
+Pe-225,Peach,LZH
+Pe-001,Peach,URE
+Ch-960,China Southern,RYK
+Ch-034,China Airlines,SQG
+Ai-373,Air Astana,CON
+Ai-384,Air Astana,LSQ
+Ai-033,Air Astana,RAL
+Ai-441,Air Astana,PMI
+Ch-344,China Eastern,XYJ
+Lu-723,Lufthansa,SVU
+Ti-051,Tianjin Airlines,NDZ
+Ti-263,Tianjin Airlines,LIN
+Et-108,Etihad Airways,MLS
+Et-367,Etihad Airways,04G
+Ai-262,Air Canada,INU
+Ca-184,Cathay Pacific,INY
+Ib-359,Iberia,GEL
+Ib-580,Iberia,PMD
+Ib-170,Iberia,BHP
+Ib-795,Iberia,EKO
+Em-307,Emirates,LGC
+Em-818,Emirates,LZO
+Em-472,Emirates,TEU
+Ti-841,Tiger Airways,URE
+Ti-878,Tiger Airways,BAV
+Ti-270,Tiger Airways,MMV
+Au-348,Austrian,MTK
+Au-106,Austrian,GMR
+Br-386,Brussels Airlines,GKL
+Br-913,Brussels Airlines,EIE
+Ae-033,Aer Lingus,CTL
+Ae-051,Aer Lingus,AXJ
+Ae-236,Aer Lingus,TMG
+Az-634,Azerbaijan Airlines,NML
+Az-617,Azerbaijan Airlines,CNX
+In-360,Indigo,COT
+In-135,Indigo,UTW
+Vi-273,Vietnam Airlines,QXB
+Vi-346,Vietnam Airlines,MSW
+Vi-821,Vietnam Airlines,CIP
+Vi-705,Vietnam Airlines,COO
+Vi-152,Vietnam Airlines,PTZ
+Vi-240,Vietnam Airlines,NAJ
+Ae-557,Aeroflot,TCT
+Ae-171,Aeroflot,RTG
+Ae-985,Aeroflot,IDY
+Ae-150,Aeroflot,AMY
+Ae-574,Aeroflot,SAF
+Ae-250,Aeroflot,GJA
+TA-271,TAP Air Portugal,CER
+TA-901,TAP Air Portugal,NEG
+TA-547,TAP Air Portugal,LSH
+Vi-864,Virgin Australia,YMS
+Vi-036,Virgin Australia,UYU
+Vi-283,Virgin Australia,HRE
+Ku-658,Kulula,UMD
+Ku-250,Kulula,KHW
+Ko-382,Korean Air,HHH
+Ic-304,Icelandair,PEN
+Ic-477,Icelandair,PRL
+Ic-382,Icelandair,RIS
+Ic-184,Icelandair,GTR
+Dr-192,Dragonair,ELF
+Dr-068,Dragonair,TGO
+Dr-131,Dragonair,IBR
+Ai-842,Air Mauritius,LIV
+Ai-797,Air Mauritius,TEB
+Tu-884,Turkish Airlines,TBP
+Tu-997,Turkish Airlines,HOJ
+EV-754,EVA Air,KEP
+EV-250,EVA Air,KSQ
+Ai-631,Air New Zealand,YUD
+Ai-560,Air New Zealand,AXP
+Ai-154,Air New Zealand,MMX
+Ha-001,Hawaiian Airlines,CAY
+Ha-879,Hawaiian Airlines,MPI
+Ha-372,Hawaiian Airlines,DBQ
+Ha-581,Hawaiian Airlines,SDC
+Ae-241,Aegean Airlines,ROI
+Ae-206,Aegean Airlines,SVZ
+Si-014,Singapore Airlines,SAK
+Si-396,Singapore Airlines,CAH
+Si-924,Singapore Airlines,AGL
+KL-854,KLM,ZQL
+KL-234,KLM,RIK
+KL-754,KLM,PTH
+AN-910,ANAs,BLZ
+AN-981,ANAs,YRM
+AN-635,ANAs,RSU
+Po-408,Porter Airlines,VLI
+Po-214,Porter Airlines,EGN
+Po-597,Porter Airlines,PIR
+Po-983,Porter Airlines,MYJ
+Ph-590,Philippine Airlines,KTL
+ea-568,easyJet,PPN
+ea-941,easyJet,LXR
+Om-433,Oman Air,52A
+Om-905,Oman Air,RBX
+Om-387,Oman Air,SJD
+Az-028,Azul Airlines,TOW
+Je-214,Jetstar Airways,NIP
+Je-476,Jetstar Airways,AGI
+Je-945,Jetstar Airways,XTG
+Je-931,Jetstar Airways,DUS
+SA-999,SAS Scandinavian,DOG
+Et-045,Ethiopian Airlines,MFK
+Et-105,Ethiopian Airlines,DUM
+Et-524,Ethiopian Airlines,EGT
+Et-240,Ethiopian Airlines,BOD
+Et-005,Ethiopian Airlines,LSI
+Et-904,Ethiopian Airlines,AUB
+Ho-599,Hong Kong Airlines,PAV
+Ho-207,Hong Kong Airlines,QFZ
+Ho-665,Hong Kong Airlines,BDL
+Fi-900,Fiji Airways,BKZ
+Fi-866,Fiji Airways,CAI
+Fi-150,Fiji Airways,CLJ
+Fi-279,Fiji Airways,NYG
+Fi-700,Fiji Airways,MES
+Sc-458,Scoot,KWT
+Sc-695,Scoot,MZJ
+Gu-546,Gulf Air,LEY
+Gu-008,Gulf Air,JKH
+LO-106,LOT Polish,CHO
+Ai-332,Air Seychelles,COC
+Ai-086,Air Seychelles,SDC
+Je-644,Jetstar Asia,YEV
+Ai-976,Air Nostrum,GOY
+Ai-524,Air Nostrum,YFB
+Ai-938,Air Nostrum,2G2
+Th-924,Thomson Airways,VNX
+Th-130,Thomson Airways,3G4
+Th-693,Thomson Airways,RVK
+Th-923,Thomson Airways,LWA
+Th-992,Thomson Airways,MOQ
+Si-052,SilkAir,OKI
+Sa-177,Saudi Arabian Airlines,RKZ
+Sa-724,Saudi Arabian Airlines,TAT
+Ro-166,Royal Brunei Airlines,KMS
+Ro-411,Royal Brunei Airlines,PUK
+Ro-297,Royal Brunei Airlines,RRA
+Ro-239,Royal Brunei Airlines,PTP
+Br-769,British Airways,CKF
+Br-428,British Airways,TUC
+Br-028,British Airways,RCZ
+Sp-922,SpiceJet,MSI
+Qa-577,Qatar Airways,GZT
+Qa-627,Qatar Airways,USH
+Al-659,Alaska Airlines,MKS
